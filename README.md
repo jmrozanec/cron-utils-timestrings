@@ -3,10 +3,9 @@ cron-utils-timestrings
 A Java library to provide human readable time strings and means to replace them with an actual date. The project follows the [Semantic Versioning Convention](http://semver.org/) and uses Apache 2.0 license.
 
 [![Gitter Chat](http://img.shields.io/badge/chat-online-brightgreen.svg)](https://gitter.im/jmrozanec/cron-utils)
-[![Build Status](https://travis-ci.org/jmrozanec/cron-utils-timestrings.png?branch=master)](https://travis-ci.org/jmrozanec/cron-utils)
-[![Coverage Status](https://coveralls.io/repos/jmrozanec/cron-utils-timestrings/badge.png)](https://coveralls.io/r/jmrozanec/cron-utils)
+[![Build Status](https://travis-ci.org/jmrozanec/cron-utils-timestrings.png?branch=master)](https://travis-ci.org/jmrozanec/cron-utils-timestrings)
+[![Coverage Status](https://coveralls.io/repos/jmrozanec/cron-utils-timestrings/badge.png)](https://coveralls.io/r/jmrozanec/cron-utils-timestrings)
 
-[![Project stats by OpenHub](https://www.openhub.net/p/cron-utils-timestrings/widgets/project_thin_badge.gif)](https://www.openhub.net/p/cron-utils/)
 
 **Download**
 
