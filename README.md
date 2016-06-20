@@ -14,7 +14,7 @@ cron-utils-timestrings is available on [Maven central](http://search.maven.org/#
     <dependency>
         <groupId>com.cronutils</groupId>
         <artifactId>cron-utils</artifactId>
-        <version>0.1.0-SNAPSHOT</version>
+        <version>0.1.0</version>
     </dependency>
 
 
